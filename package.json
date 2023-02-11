@@ -1,0 +1,16 @@
+{
+  "name": "x-encrypt",
+  "version": "0.0.9",
+  "description": "The smart encryption library you've always wanted",
+  "main": "x-encrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "encrypt",
+    "security",
+    "npm"
+  ],
+  "author": "Tom Wang",
+  "license": "MIT"
+}
