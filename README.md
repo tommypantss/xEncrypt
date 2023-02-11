@@ -5,6 +5,7 @@ The smart encryption library you've always wanted
 xEncrypt is a simple and versatile encryption library for Node.js that supports multiple encryption algorithms and encryption modes. With X-Encrypt, you can easily encrypt and decrypt data, generate encryption keys, and customize the encryption process to suit your needs.
 
 [xEncrypt NPM](https://www.npmjs.com/package/x-encrypt)
+[xEncrypt Github](https://github.com/tommypantss/xEncrypt)
 
 
 ## Features
@@ -89,4 +90,4 @@ console.log(decryptedData)
 ```
 
 ## Support
-If my tools have made your projects better, consider [https://www.buymeacoffee.com/tommypants](buying me a coffee). Thank you.
+If my tools have made your projects better, consider [buying me a coffee](https://www.buymeacoffee.com/tommypants). Thank you.
